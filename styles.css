@@ -51,6 +51,10 @@ a {
     background: crimson
 }
 
+#extra-credit {
+  background-color: black;
+}
+
 #controls {
     width: 120px;
     margin: 0 auto;
